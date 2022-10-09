@@ -1,11 +1,16 @@
-# Leet_Code
+
 
 # Data_Science_Hacktoberfest
 
 ![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/sj5027052/Hacktoberfest2022)
 
+# Leet Code
 
+
+LeetCode is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions. It has over 1,100 different problems, support for over 18 programming languages, and an active community that is always there to help you with the solutions you come up with. If your intention is to hone your coding skills, then this online judge platform is one of the best that you can use.
+
+Most of LeetCode’s content is free, but LeetCode Premium enhances all of its positives by granting you access to things like access to premium problems and solutions, access to a built-in debugger, an autocomplete function, and interview simulations with feedback. It also makes it even more effective if you’re using it to prepare for technical interviews, as it grants you access to company-specific programming questions that you can use to have a better grasp of what you can expect from the questions you’ll face in interviews with companies like Google, Facebook, and Microsoft, making it the ideal online judge to use if your sights are set on one of these FAANG companies
 
 ## How to use this repo
 Respond to my issues or create your own issue with a problem statement I will assign you with the issue
@@ -50,12 +55,6 @@ now you have successfully created a pull request
 Make a pull request with a problem that you have solved
 
 Wait for me to merge and accept the pull request .
-
-# About Leetcode
-
-LeetCode is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions. It has over 1,100 different problems, support for over 18 programming languages, and an active community that is always there to help you with the solutions you come up with. If your intention is to hone your coding skills, then this online judge platform is one of the best that you can use.
-
-Most of LeetCode’s content is free, but LeetCode Premium enhances all of its positives by granting you access to things like access to premium problems and solutions, access to a built-in debugger, an autocomplete function, and interview simulations with feedback. It also makes it even more effective if you’re using it to prepare for technical interviews, as it grants you access to company-specific programming questions that you can use to have a better grasp of what you can expect from the questions you’ll face in interviews with companies like Google, Facebook, and Microsoft, making it the ideal online judge to use if your sights are set on one of these FAANG companies
 
 
 # About HacktobeFest
