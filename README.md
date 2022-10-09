@@ -13,11 +13,11 @@ Respond to my issues or create your own issue with a problem statement I will as
 Fork this repository
 
 
-git clone https://github.com/<your_github_user_name>/exploratory_data_analysis.git
-cd exploratory_data_analysis
+git clone https://github.com/<your_github_user_name>/Leet_Code.git
+cd Leet_Code
 
 
-git remote add upstream https://github.com/souvikg544/exploratory_data_analysis.git
+git remote add upstream https://github.com/souvikg544/Leet_Code.git
 
 
 git remote -v
@@ -30,7 +30,7 @@ create a new branch so that you can upload the code
 
 git checkout -b <your_branch_name>
 
-Make relavent changes exploratory_data_analysis Folder You can do the analysis in a platform of your choice - kaggle , colab or your local machine .
+Make relavent changes Leet_Code Folder You can do the analysis in a platform of your choice - kaggle , colab or your local machine .
 
 
 git add .
