@@ -5,24 +5,7 @@
 ![image](https://user-images.githubusercontent.com/99472914/192144059-5cd0b329-f238-474b-b475-7385eaa35d05.png)
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/sj5027052/Hacktoberfest2022)
 
-# Exploratory Data Analysis
-### Datasets
-This repository is open for Hacktoberfest contributors to analyze data and bring their opensource skills in action. Data Folder contains several interesting datasets . I have limited the datasets to excel and csv files to keep the thrill of data analysis intact.
 
-### Social Datasets include -
-1. Indian Elections
-2. Air_Quality
-3. crime rates
-4. unemployment analysis
-### Medical Datasets -
-1. Liver Disease Dataset
-2. Population -
-3. World Population
-
-### Some links to other kaggle datasets I found unique-
- 
-* https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset
-* https://www.kaggle.com/datasets/therohk/india-headlines-news-dataset
 
 ## How to use this repo
 Respond to my issues or create your own issue with a problem statement I will assign you with the issue
