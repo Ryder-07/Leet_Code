@@ -55,7 +55,9 @@ now you have successfully created a pull request
 Make a pull request with a problem that you have solved
 
 Wait for me to merge and accept the pull request .
-
+This repository gives solution to the Leetcode Problems.
 
 # About HacktobeFest
 [Hacktoberfest22](https://hacktoberfest.com/) Go through the file CONTRIBUTING.md to know more Make some nice set of pull requests and enjoy with your reward kits. Btw hacktoberfest t shirts are quite good 😉.
+
+
