@@ -1,25 +1,14 @@
-//This is the solution to one of the leetcode problems (easy)
-//https://leetcode.com/problems/two-sum/
-
-
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        int count=0,i,j=0 ;
-        vector<int> res(2);
-        while(count!=1){
-           int d=target-nums[j];
-           res[0]=j;
-        for( i=j+1;i<nums.size();i++){
-             if(nums[i]==d){
-                 count++;
-                 res[1]=i;
-                 break;
-             }
+        unordered_map<int, int> map; // create a hash map
+        for (int i = 0; i < nums.size(); i++) { // loop through the array
+            int complement = target - nums[i]; // calculate the complement
+            if (map.count(complement)) { // check if the complement exists in the map
+                return {map[complement], i}; // return the indices
+            }
+            map[nums[i]] = i; // store the element and its index in the map
         }
-        j++;
-        }
-       return res;
+        return {}; // no solution found
     }
-    
 };
